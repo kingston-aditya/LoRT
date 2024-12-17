@@ -10,7 +10,7 @@ Full details about the paper can be found in our technical report: [LoRT: Logica
 All questions were written in **English**.
 
 ## Dataset
-The dataset is released in both `JSON` and `CSV` formats. It can be found in ~/LoRT/data/ directory. LoRT contains around `110K` CommmonsenseQA-style questions. 
+The dataset is released in both `JSON` and `CSV` formats. It can be found in `~/LoRT/data/` directory. LoRT contains around `110K` CommmonsenseQA-style questions. 
 
 The following is an example entry from LoRT:
 ```
