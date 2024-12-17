@@ -1,7 +1,5 @@
 # LoRT: Logical Reasoning Evaluation Suite for Transformers
 
-* This github is under construction.
-
 This repository contains the LoRT dataset that was introduced at the CMSC 828J course offered at University of Maryland, Colege Park.
 
 Full details about the paper can be found in our technical report: [LoRT: Logical Reasoning Evaluation Suite for Transformers]()
@@ -25,8 +23,19 @@ A description of the fields is given below:
 * `A`: the first word. It can be real or synthetic.
 * `B`: the second word. It can be real or synthetic.
 * `No`: the answer to the entailment question asked.
+
+## How to run the scripts
+```
+    git clone https://github.com/ws500981/LoRT.git
+    pip install requirements.txt
+    cd ~/LoRT/scripts
+    # for SynLoRT - numbers
+    python get_data.py 25000 4 4 0 0 
+```
+
 ## License
-This project is licensed under the CC-BY-4.0 License.
+This project is licensed under the MIT License.
+
 ## Citation
 If you use this dataset, please cite the following paper:
 ```
