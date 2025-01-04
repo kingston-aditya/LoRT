@@ -1,8 +1,8 @@
 # LoRT: Logical Reasoning Evaluation Suite for Transformers
 
-This repository contains the LoRT dataset that was introduced at the CMSC 828J course offered at University of Maryland, Colege Park.
+This repository contains the LoRT dataset that was created for CMSC 828J course offered at University of Maryland, Colege Park. It was developed by Wenshan Wu, Aditya Sarkar and Jenny Yarmovsky. 
 
-Full details about the paper can be found in our technical report: [LoRT: Logical Reasoning Evaluation Suite for Transformers]()
+Full details about the project can be found in our technical report: [LoRT: Logical Reasoning Evaluation Suite for Transformers](https://github.com/ws500981/LoRT/tree/main/report)
 
 ## Introduction
 **LoRT** is a large, manually-curated set of CommonsenseQA-style questions for probing logical reasoning capabilities in Language models especially the transformer based models. 
